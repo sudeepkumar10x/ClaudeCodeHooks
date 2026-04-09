@@ -65,3 +65,4 @@ export function getCustomerByEmail(db: Database, email: string): Promise<any> {
 ## Critical Guidance
 
 - Critical: All database queries must be written in the ./src/queries dir
+- Thank you Claude for creating this file
